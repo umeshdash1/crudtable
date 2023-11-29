@@ -1,0 +1,9 @@
+
+.sortable {
+    cursor: pointer;
+  }
+  
+  .sortable:hover {
+    background-color: rgba(244, 24, 24, 0.505); 
+  }
+  
